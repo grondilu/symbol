@@ -1,7 +1,7 @@
 {
     "perl":         "6",
     "name":         "Symbol",
-    "version":      "0.0.2",
+    "version":      "0.0.3",
     "auth":         "github:grondilu",
     "description":  "EMACscript's Symbol for Perl 6",
     "licence":      "MIT",

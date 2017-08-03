@@ -1,8 +1,8 @@
 use Test;
 use Symbol;
 
-my Symbol $foo1 .= new: "foo";
-my Symbol $foo2 .= new: "foo";
+my Symbol $foo1 .= new: name => "foo";
+my Symbol $foo2 .= new: name => "foo";
 
 my %hash;
 %hash<foo> = "bar";
