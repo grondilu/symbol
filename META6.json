@@ -3,7 +3,7 @@
     "name":         "Symbol",
     "version":      "0.0.4",
     "auth":         "github:grondilu",
-    "description":  "EMACscript's Symbol for Perl 6",
+    "description":  "ECMAScript's Symbol for Perl 6",
     "licence":      "MIT",
     "depends":      [ "UUID" ],
     "provides":     {
@@ -11,4 +11,3 @@
     },
     "source-url":  "git://github.com/grondilu/symbol"
 }
-
